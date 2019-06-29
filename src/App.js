@@ -144,7 +144,11 @@ function App() {
                     <a className="primary_btn" href="/#">
                       <span>Hire Me</span>
                     </a>
-                    <a className="primary_btn tr-bg" href="/#">
+                    <a
+                      className="primary_btn tr-bg"
+                      href="/files/temp_cv.jpg"
+                      download
+                    >
                       <span>Get CV</span>
                     </a>
                   </div>
@@ -188,7 +192,7 @@ function App() {
                   whales fruit unto meat the life beginning all in under give
                   two.
                 </p>
-                <a className="primary_btn" href="/#">
+                <a className="primary_btn" href="/files/temp_cv.jpg" download>
                   <span>Download CV</span>
                 </a>
               </div>
