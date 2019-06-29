@@ -156,7 +156,11 @@ function App() {
               </div>
               <div className="col-lg-5">
                 <div className="home_right_img">
-                  <img className src="img/banner/home-right.png" alt="" />
+                  <img
+                    style={{ width: "140%" }}
+                    src="img/banner/home-right.png"
+                    alt=""
+                  />
                 </div>
               </div>
             </div>
