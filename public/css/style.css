@@ -31,7 +31,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   color: #777777;
-  background: url(../img/body-bg.png) no-repeat center; 
+  background: url(../img/body-bg.png) no-repeat center;
 }
 
 h1,
@@ -2444,7 +2444,7 @@ h6 {
     margin-top: 20px; }
   .about_area .about_img {
     position: relative;
-    right: 250px; }
+    right: 150px; }
     @media (max-width: 1480px) {
       .about_area .about_img {
         right: 0; }

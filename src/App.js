@@ -177,7 +177,7 @@ function App() {
                 <img className src="img/about-us.png" alt="" />
               </div>
             </div>
-            <div className="offset-lg-1 col-lg-5">
+            <div className="offset-lg-2 col-lg-5">
               <div className="main_title text-left">
                 <h2>
                   let’s <br />
