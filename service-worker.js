@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Dhaval_Modi_Portfolio/precache-manifest.1fc5659cc09788d3d884a6d8403a6ebc.js"
+  "/Dhaval_Modi_Portfolio/precache-manifest.35b8f4a5fd2c10175987feab9f2952c7.js"
 );
 
 self.addEventListener('message', (event) => {
