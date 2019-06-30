@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d35fd480e45c4775279ff8fa369dfcd",
+    "revision": "5ed0d0356920564fb83771bf385b02cd",
     "url": "/Dhaval_Modi_Portfolio/index.html"
   },
   {
-    "revision": "adccafbba81f474edf81",
+    "revision": "370b9222e3d41081d6d3",
     "url": "/Dhaval_Modi_Portfolio/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dhaval_Modi_Portfolio/static/js/2.3310f33a.chunk.js"
   },
   {
-    "revision": "adccafbba81f474edf81",
-    "url": "/Dhaval_Modi_Portfolio/static/js/main.56824408.chunk.js"
+    "revision": "370b9222e3d41081d6d3",
+    "url": "/Dhaval_Modi_Portfolio/static/js/main.13edbfe4.chunk.js"
   },
   {
     "revision": "078daa35762ce7bee2b2",
