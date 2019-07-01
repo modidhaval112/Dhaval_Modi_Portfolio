@@ -35,17 +35,17 @@ class HeaderComponent extends Component {
                       Home
                     </a>
                   </li>
-                  <li className="nav-item">
+                  {/* <li className="nav-item">
                     <a className="nav-link" href="about.html">
                       About
                     </a>
-                  </li>
+                  </li> */}
                   <li className="nav-item">
                     <a className="nav-link" href="services.html">
                       Services
                     </a>
                   </li>
-                  <li className="nav-item">
+                  {/* <li className="nav-item">
                     <a className="nav-link" href="portfolio.html">
                       Portfolio
                     </a>
@@ -73,7 +73,7 @@ class HeaderComponent extends Component {
                         </a>
                       </li>
                     </ul>
-                  </li>
+                  </li> */}
                   <li className="nav-item submenu dropdown">
                     <a
                       href="/#"
