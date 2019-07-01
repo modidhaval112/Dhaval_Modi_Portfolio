@@ -4,8 +4,10 @@
   "private": true,
   "homepage": "https://modidhaval112.github.io/Dhaval_Modi_Portfolio",
   "dependencies": {
+    "mongodb": "^3.2.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-owl-carousel": "^2.3.1",
     "react-scripts": "3.0.1"
   },
   "scripts": {
@@ -14,8 +16,11 @@
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "server": "node-env-run server --exec nodemon | pino-colada",
+    "dev": "run-p server start"
   },
+  "proxy": "http://localhost:3001",
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -32,6 +37,8 @@
     ]
   },
   "devDependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
     "gh-pages": "^2.0.1"
   }
 }

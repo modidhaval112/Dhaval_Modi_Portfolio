@@ -1,7 +1,14 @@
 import React, { Component } from "react";
+import OwlCarousel from "react-owl-carousel";
+
+const options = {
+  items: 1,
+  nav: true,
+  rewind: true,
+  autoplay: true
+};
 
 class TestimonialComponent extends Component {
-  state = {};
   render() {
     return (
       <div className="testimonial_area section_gap_bottom">
@@ -19,7 +26,7 @@ class TestimonialComponent extends Component {
             </div>
           </div>
           <div className="row">
-            <div className="testi_slider owl-carousel">
+            <OwlCarousel options={options} oop margin={10} nav>
               <div className="testi_item">
                 <div className="row">
                   <div className="col-lg-4">
@@ -122,7 +129,7 @@ class TestimonialComponent extends Component {
                   </div>
                 </div>
               </div>
-            </div>
+            </OwlCarousel>
           </div>
         </div>
       </div>

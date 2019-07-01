@@ -77,7 +77,7 @@ class BrandComponent extends Component {
             <div className="offset-lg-2 col-lg-4 col-md-6">
               <div className="client-info">
                 <div className="d-flex mb-50">
-                  <span className="lage">10</span>
+                  <span className="lage">5.2</span>
                   <span className="smll">Years Experience Working</span>
                 </div>
                 <div className="call-now d-flex">
@@ -86,7 +86,7 @@ class BrandComponent extends Component {
                   </div>
                   <div className="ml-15">
                     <p>call us now</p>
-                    <h3>(+1)-800-555-6789</h3>
+                    <h3>(+1)-514-638-0925</h3>
                   </div>
                 </div>
               </div>
