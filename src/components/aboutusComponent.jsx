@@ -30,7 +30,11 @@ class AboutUsComponent extends Component {
                   whales fruit unto meat the life beginning all in under give
                   two.
                 </p>
-                <a className="primary_btn" href="/files/temp_cv.jpg" download>
+                <a
+                  className="primary_btn"
+                  href="/files/Dhaval_Resume.pdf"
+                  download
+                >
                   <span>Download CV</span>
                 </a>
               </div>

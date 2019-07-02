@@ -20,7 +20,7 @@ class HomeComponent extends Component {
                     </a>
                     <a
                       className="primary_btn tr-bg"
-                      href="/files/temp_cv.jpg"
+                      href="/files/Dhaval_Resume.pdf"
                       download
                     >
                       <span>Get CV</span>
