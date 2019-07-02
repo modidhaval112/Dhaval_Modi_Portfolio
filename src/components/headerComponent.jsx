@@ -7,7 +7,6 @@ class HeaderComponent extends Component {
         <div className="main_menu">
           <nav className="navbar navbar-expand-lg navbar-light">
             <div className="container">
-              {/* Brand and toggle get grouped for better mobile display */}
               <a className="navbar-brand logo_h" href="index.html">
                 <img src="img/logo.png" alt="" />
               </a>
@@ -24,7 +23,6 @@ class HeaderComponent extends Component {
                 <span className="icon-bar" />
                 <span className="icon-bar" />
               </button>
-              {/* Collect the nav links, forms, and other content for toggling */}
               <div
                 className="collapse navbar-collapse offset"
                 id="navbarSupportedContent"
