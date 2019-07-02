@@ -35,45 +35,16 @@ class HeaderComponent extends Component {
                       Home
                     </a>
                   </li>
-                  {/* <li className="nav-item">
-                    <a className="nav-link" href="about.html">
-                      About
-                    </a>
-                  </li> */}
                   <li className="nav-item">
                     <a className="nav-link" href="services.html">
                       Services
                     </a>
                   </li>
-                  {/* <li className="nav-item">
-                    <a className="nav-link" href="portfolio.html">
-                      Portfolio
+                  <li className="nav-item">
+                    <a className="nav-link" href="blog_new.html">
+                      Blogg
                     </a>
                   </li>
-                  <li className="nav-item submenu dropdown">
-                    <a
-                      href="/#"
-                      className="nav-link dropdown-toggle"
-                      data-toggle="dropdown"
-                      role="button"
-                      aria-haspopup="true"
-                      aria-expanded="false"
-                    >
-                      Pages
-                    </a>
-                    <ul className="dropdown-menu">
-                      <li className="nav-item">
-                        <a className="nav-link" href="elements.html">
-                          Elements
-                        </a>
-                      </li>
-                      <li className="nav-item">
-                        <a className="nav-link" href="portfolio-details.html">
-                          Portfolio Details
-                        </a>
-                      </li>
-                    </ul>
-                  </li> */}
                   <li className="nav-item submenu dropdown">
                     <a
                       href="/#"
